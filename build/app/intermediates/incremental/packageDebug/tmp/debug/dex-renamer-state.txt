@@ -1,4 +1,0 @@
-#Wed Sep 23 21:30:54 CST 2020
-base.0=/home/red/Developer/Game development/Gaming/Flutter/box2d_and_flame/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
